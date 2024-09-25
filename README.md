@@ -43,7 +43,7 @@ The analysis revealed key insights, such as:
 - **Tableau/Excel**: For data visualization and advanced analysis.
   
 ## Contact
-For further inquiries, feel free to connect with me on [LinkedIn][(https://www.linkedin.com/in/your-linkedin-profile).](https://www.linkedin.com/in/faiq-syed-7494b5197/)
+For further inquiries, feel free to connect with me on [LinkedIn][(Faiq Syed).](https://www.linkedin.com/in/faiq-syed-7494b5197/)
 
 
 
